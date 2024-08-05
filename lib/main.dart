@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:laundry_app/pages/home_widget.dart';
+import 'package:laundry_app/screens/home_widget.dart';
 
 void main() {
   runApp(const MyApp());
